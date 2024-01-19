@@ -6,27 +6,19 @@ permalink: /imprint/
 
 Legal Disclosure
 ================
-Information in accordance with section 5 TMG
-
-Janine George  
-Unter den Eichen 87
-12205 Berlin 
+Megan M. Butala  
 
 Contact:  
-E-Mail: janine.george(at)bam.de 
+E-Mail: mbutala(at)ufl.edu 
 
 Disclaimer
 =========
-Accountability for content
+Accountability
 
-The contents of my pages have been created with the utmost care. However, I cannot guarantee the contents' accuracy, completeness or topicality. According to statutory provisions, I am furthermore responsible for my own content on these web pages. In this context, please note that I am accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. My obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).
+Despite using care in the creation and sharing of content here, I do not guarantee the accuracy or completeness. I take responsibility for my own content on this web page, and am not obligated to monitor transmitted or saved information by other parties.
 
-Accountability for links
-
-Responsibility for the content of external links (to web pages of third parties) lies solely with the operators of the linked pages. No violations were evident to me at the time of linking. Should any legal infringement become known to me, I will remove the respective link immediately.
+Likewise, responsibilities regarding the content of external web pages linked through this page lies with the operators of those pages. Any linked content was evaluated to have no violations at the time of their addition. If I become aware of any legal issues with these sites, I will remove the link.
 
 Copyright
 
-My web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on my web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
-
-
+This web page and its contents are subject to copyright law, which precludes the use, reproduction, or processing of these work without prior consent by the owner of the rights. Reproductions are not allowed for direct or indirect earnings. 
