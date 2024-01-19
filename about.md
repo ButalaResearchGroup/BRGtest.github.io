@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Janine George
+title: Megan M. Butala
 permalink: /about/
 ---
 
@@ -10,44 +10,16 @@ permalink: /about/
 
 Short CV
 ========
-* **September 2023 - today**: Professor for Materials Informatics at at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/))
-* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry)
-* **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
-* **2018-April 2021:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) ([now at Darthmouth College](https://engineering.dartmouth.edu/community/faculty/geoffroy-hautier)) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be) 
-* **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
-* **2012-2017:** Courses in Computational Science at the Bachelor and Master of Science Level at Fernuni Hagen
-* **2011-2013:** Master of Science in Chemistry (summa cum laude), [RWTH Aachen University](http://www.rwth-aachen.de)
-* **2008-2011:** Bachelor of Science in Chemistry, [RWTH Aachen University](http://www.rwth-aachen.de)
-* **2005-2008:** Abitur at the [Internatsschule Schloss Hansenberg](https://www.hansenberg.de/) 
-
-Awards
-======
-* **2021:** Falling Walls Finalist "Breakthrough of the Year" in the Category "Physical Sciences".
-* **2021:** Junior Group Funding at BAM of Around One Million Euros for 5 Years.
-* **2021:** Offered Junior Professorship at TU Braunschweig (W1TTW2, declined in favor of the BAM position). 
-* **2021:** Liebig Fellowship, Fonds der Chemischen Industrie (declined in favor of the BAM position).
-* **2019:** Poster prize, GDCh-Fachgruppe Theoretische Chemie.
-  - Poster award at the Symposium on Theoretical Chemistry, University of Rostock, 2019.
-* **2019:** Marie Skłodowska-Curie Individual Fellowship, European Commission.
-  - Postdoctoral Fellowship
-* **2018:** Travel award for the MRS Fall Meeting 2018 in Boston.
-* **2018:** Poster prize, GDCh-Fachgruppe Festkörperchemie und Materialforschung.
-  - Poster award at 19. Vortragstagung für Anorganische Chemie, 2018.
-* **2018:** Borchers Badge, proRWTH.
-  - Award for Doctorate with Distinction (summa cum laude)
-* **2014:** Springorum Commemorative Coin, proRWTH.
-  - Award for Master’s Degree with Distinction.
-* **2014–2016:** Chemiefonds Fellowship, Fonds der Chemischen Industrie. 
-  - PhD Fellowship.
-* **2010–2013:** Deutschland/NRW-Stipendium, RWTH Aachen University/Grünenthal.
-  - Promotion of Bachelor’s and Master’s Studies for 3 Years.
-* **2010–2014:** Dean’s List, RWTH Aachen University.
-  - Four Years in the Top 5% of the RWTH Aachen University Students.
+* **November 2019 - today**: Assistant Professor, Department of Materials Science and Engineering at University of Florida
+* **September 2017 - September 2019**: National Research Council Postdoctoral Fellow, Materials Measurement Laboratory at the National Insitute of Standards and Technology
+* **June 2015:** Visiting graduate student, Cambridge University, group of Clare P. Grey
+* **2012 - 2017:** Doctorate in Materials, University of California Santa Barbara, advised by Ram Seshadri
+* **2007 - 2012:** Bachelor of Science in Materials Engineering, California Polytechnic State University, San Luis Obispo
 
 Publications
 =============
 
-See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
+See [https://scholar.google.com](https://scholar.google.com/citations?user=TZzQ67IAAAAJ&hl=en))
 
 42. [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, *Sci. Data* **2023**, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
 41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, *J. Mater. Chem. C*, **2022**, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
